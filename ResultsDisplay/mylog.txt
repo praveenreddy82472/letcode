@@ -1,0 +1,76 @@
+30/11/2023  03:28:45 PM:INFO:Build Class Started
+30/11/2023  03:28:45 PM:INFO:Students Enter the subject wise marks
+30/11/2023  03:28:49 PM:INFO:Student Result Processing
+30/11/2023  03:28:49 PM:INFO:String function execution
+30/11/2023  03:28:49 PM:INFO:Store the Result to a Variable
+30/11/2023  03:28:49 PM:INFO:DataHandling to the File
+30/11/2023  03:28:49 PM:INFO:File Created
+30/11/2023  03:28:49 PM:INFO:Data Append to the file
+30/11/2023  03:28:49 PM:INFO:database accessing
+30/11/2023  03:28:49 PM:INFO:Database Requested Allowed
+30/11/2023  03:28:49 PM:INFO:Database Created
+30/11/2023  03:28:53 PM:INFO:Inserted the data into database
+30/11/2023  03:28:57 PM:INFO:Exit the database
+30/11/2023  04:02:06 PM:INFO:Build Class Started
+30/11/2023  04:02:06 PM:INFO:Students Enter the subject wise marks
+30/11/2023  04:02:12 PM:INFO:Student Result Processing
+30/11/2023  04:02:12 PM:INFO:String function execution
+30/11/2023  04:02:12 PM:INFO:Store the Result to a Variable
+30/11/2023  04:02:12 PM:INFO:DataHandling to the File
+30/11/2023  04:02:12 PM:INFO:File Created
+30/11/2023  04:02:12 PM:INFO:Data Append to the file
+30/11/2023  04:02:12 PM:INFO:database accessing
+30/11/2023  04:02:12 PM:INFO:Database Requested Allowed
+30/11/2023  04:02:12 PM:INFO:Database Created
+30/11/2023  04:02:14 PM:INFO:Inserted the data into database
+30/11/2023  04:02:17 PM:INFO:Exit the database
+30/11/2023  04:02:17 PM:INFO:Database Requested Allowed
+30/11/2023  04:02:17 PM:INFO:Database Created
+30/11/2023  04:02:17 PM:INFO:Table Created
+30/11/2023  04:04:42 PM:INFO:Build Class Started
+30/11/2023  04:04:42 PM:INFO:Students Enter the subject wise marks
+30/11/2023  04:04:47 PM:INFO:Student Result Processing
+30/11/2023  04:04:47 PM:INFO:String function execution
+30/11/2023  04:04:47 PM:INFO:Store the Result to a Variable
+30/11/2023  04:04:47 PM:INFO:DataHandling to the File
+30/11/2023  04:04:47 PM:INFO:File Created
+30/11/2023  04:04:47 PM:INFO:Data Append to the file
+30/11/2023  04:04:47 PM:INFO:database accessing
+30/11/2023  04:04:47 PM:INFO:Database Requested Allowed
+30/11/2023  04:04:47 PM:INFO:Database Created
+30/11/2023  04:04:50 PM:INFO:Inserted the data into database
+30/11/2023  04:04:53 PM:INFO:Exit the database
+30/11/2023  04:04:53 PM:INFO:MarksWISE Database Requested Allowed
+30/11/2023  04:04:53 PM:INFO:MarksWISE Database Created
+30/11/2023  04:12:16 PM:INFO:Build Class Started
+30/11/2023  04:12:16 PM:INFO:Students Enter the subject wise marks
+30/11/2023  04:12:20 PM:INFO:Student Result Processing
+30/11/2023  04:12:20 PM:INFO:String function execution
+30/11/2023  04:12:20 PM:INFO:Store the Result to a Variable
+30/11/2023  04:12:20 PM:INFO:DataHandling to the File
+30/11/2023  04:12:20 PM:INFO:File Created
+30/11/2023  04:12:20 PM:INFO:Data Append to the file
+30/11/2023  04:12:20 PM:INFO:database accessing
+30/11/2023  04:12:20 PM:INFO:Database Requested Allowed
+30/11/2023  04:12:20 PM:INFO:Database Created
+30/11/2023  04:12:23 PM:INFO:Inserted the data into database
+30/11/2023  04:12:25 PM:INFO:Exit the database
+30/11/2023  04:12:25 PM:INFO:MarksWISE Database Requested Allowed
+30/11/2023  04:12:25 PM:INFO:MarksWISE Database Created
+30/11/2023  04:15:30 PM:INFO:Build Class Started
+30/11/2023  04:15:30 PM:INFO:Students Enter the subject wise marks
+30/11/2023  04:15:34 PM:INFO:Student Result Processing
+30/11/2023  04:15:34 PM:INFO:String function execution
+30/11/2023  04:15:34 PM:INFO:Store the Result to a Variable
+30/11/2023  04:15:34 PM:INFO:DataHandling to the File
+30/11/2023  04:15:34 PM:INFO:File Created
+30/11/2023  04:15:34 PM:INFO:Data Append to the file
+30/11/2023  04:15:34 PM:INFO:database accessing
+30/11/2023  04:15:34 PM:INFO:Database Requested Allowed
+30/11/2023  04:15:34 PM:INFO:Database Created
+30/11/2023  04:15:36 PM:INFO:Inserted the data into database
+30/11/2023  04:15:37 PM:INFO:Exit the database
+30/11/2023  04:15:37 PM:INFO:MarksWiseDatabase Requested Allowed
+30/11/2023  04:15:37 PM:INFO:MarksWise Database Created
+30/11/2023  04:15:41 PM:INFO:Inserted the data into database
+30/11/2023  04:15:43 PM:INFO:Exit the database

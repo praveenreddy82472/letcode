@@ -1,3 +1,9 @@
 Name:Praveen	Age:2	Number:7733025282\
 Name:Pravalika	Age:20	Number:8712355410
 Name:Praneeth	Age:20	Number:9347040831
+Name:Vinay	Age:23	Number:9618169609
+Name:Praveen	Age:22	Number:8247210002
+Name:Prudhbvi	Age:23	Number:9553086374
+Name:Praveen	Age:21	Number:8247210002
+Name:Reddy	Age:21	Number:974987394
+Name:Praveen	Age:21	Number:8247210002

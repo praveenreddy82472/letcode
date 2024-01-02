@@ -1,3 +1,5 @@
+import sys
+
 import mysql.connector
 class info:
     def __init__(self,name,age,number):
@@ -26,6 +28,7 @@ class info:
         mydb = mysql.connector.connect(host='localhost', user='root', password='praveen987@', database='praveendb1')
         print('Database Connected')
         dn = mydb.cursor(buffered=True)
+        print('0.exit')
         print('1.created')
         print('2.Read')
         print('3.inserted')
@@ -53,6 +56,8 @@ class info:
                     print(i)
                 option = int(input('Enter the option:'))
                 # print(option)
+            elif option == 0:
+                sys.exit()
             else:
                 print('Invalid option')
                 option = int(input('Enter the option:'))
