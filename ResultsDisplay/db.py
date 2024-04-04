@@ -14,6 +14,7 @@ def Studentdatabase(x,y,z,w):
     print('Database Connected')
     dn = mydb.cursor(buffered=True)
     print('0.exit')
+    print('5.show_databases')
     print('1.created')
     print('2.Read')
     print('3.inserted')
@@ -44,6 +45,22 @@ def Studentdatabase(x,y,z,w):
                 logging.info('Reading the from database')
             option = int(input('Enter the option:'))
             # print(option)
+        elif option == 5:
+            print("show the tables in databases")
+            # Define the SQL query to delete all rows from the table
+            delete_query = "SHOW TABLES"
+            # Execute the delete query
+            dn.execute(delete_query)
+            # Fetch all table names
+            tables = dn.fetchall()
+            # Print the table names
+            print("Tables in the database:")
+            for table in tables:
+                print(table[0])
+            mydb.commit()
+            option = int(input('Enter the option:'))
+        elif option == 4:
+            pass
         elif option == 0:
             logging.info("Exit the database")
             break

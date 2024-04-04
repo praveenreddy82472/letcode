@@ -1,6 +1,9 @@
 from filehandling import *
 from db import *
 from db1 import *
+from datetime import datetime
+from mongodb import mongodb
+import json
 class marks:
 
     def __init__(self,name,DOB):
@@ -8,6 +11,7 @@ class marks:
         self.DOB = DOB
         #self.Result = Result
         #self.TotalMarks = TotalMarks
+        self.date = datetime.now()
         logging.info('Build Class Started')
 
     def subject(self):
@@ -59,13 +63,35 @@ class marks:
         logging.info('String function execution')
     def store(self):
         logging.info('Store the Result to a Variable')
-        result = f"Name:{self.name} \t DOB:{self.DOB} \t TotalMarks:{self.TotalMarks} \t Result:{self.Result}"
+        result = f"Date:{self.date} \t Name:{self.name} \t DOB:{self.DOB} \t TotalMarks:{self.TotalMarks} \t Result:{self.Result}"
         return result
+
+    def data_to_store_infile(self):
+        file_path = 'example.txt'  # text file
+        file_mongodb = "jsonfile.json"
+        data_to_append = self.store()  # create a variable to store information
+        result_text = append_to_file(file_path, data_to_append)  # calling function of filehandling
+        #print(result_text)
+
+
+        #string to json data into the file
+        result = f"Date:{self.date}  Name:{self.name}  DOB:{self.DOB}  TotalMarks:{self.TotalMarks}  Result:{self.Result}"
+        data = json.dumps(result)
+        result_json = append_to_file(file_mongodb, data)  # calling function of filehandling
+        #print(result_json)
 
     def databasecalling(self):
         logging.info('database accessing')
         Studentdatabase(self.name, self.DOB, self.Result, self.TotalMarks)
         StudentdatabaseMarksWise(self.name, self.DOB, self.Result, self.TotalMarks,self.Telugu,self.Hindi,self.English,self.MatheMatics,self.Science,self.SocialStudies)
+        data = [{
+            "Date": str(self.date),
+            "Name": self.name,
+            "DOB": self.DOB,
+            "TotalMarks": self.TotalMarks,
+            "Result": self.Result
+        }]
+        mongodb(data)
 
 
 if __name__ == "__main__":
@@ -80,11 +106,8 @@ if __name__ == "__main__":
         m.subject()
         m.Final()
         m.__str__()
-        file_path = 'example.txt'
-        data_to_append = m.store()
-        result = append_to_file(file_path, data_to_append) #filehandling
-        print(result)
-        m.databasecalling()  #database calling
+        m.data_to_store_infile()
+        m.databasecalling() #database calling
         option = input('Do You want to Know the subjects Marks[YES|NO]:')
         if option == 'yes':
             m.subjectsMarks()

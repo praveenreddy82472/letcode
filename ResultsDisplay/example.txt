@@ -1,6 +1,1 @@
-Name:Thumati Pravalika  	 DOB:07/06/007 	 TotalMarks:528 	 Result:Pass
-Name:Thumati Praneeth Reddy 	 DOB:09/09/2003 	 TotalMarks:528 	 Result:Pass
-Name:Thumati Praveen Kumar 	 DOB:18/04/2001 	 TotalMarks:1329 	 Result:Pass
-Name:hfjvfh 	 DOB:khefef 	 TotalMarks:462 	 Result:Pass
-Name:dhfer 	 DOB:dhvjdegh 	 TotalMarks:1328 	 Result:Pass
-Name:dnbfkefr 	 DOB:snfhjk 	 TotalMarks:396 	 Result:Pass
+Date:2024-03-28 17:58:01.303165 	 Name:vishnu 	 DOB:08/08/2000 	 TotalMarks:561 	 Result:Pass

@@ -74,3 +74,638 @@
 30/11/2023  04:15:37 PM:INFO:MarksWise Database Created
 30/11/2023  04:15:41 PM:INFO:Inserted the data into database
 30/11/2023  04:15:43 PM:INFO:Exit the database
+27/03/2024  08:13:19 PM:INFO:Build Class Started
+27/03/2024  08:13:19 PM:INFO:Students Enter the subject wise marks
+27/03/2024  08:13:32 PM:INFO:Student Result Processing
+27/03/2024  08:13:32 PM:INFO:String function execution
+27/03/2024  08:13:32 PM:INFO:Store the Result to a Variable
+27/03/2024  08:13:32 PM:INFO:DataHandling to the File
+27/03/2024  08:13:32 PM:INFO:File Created
+27/03/2024  08:13:32 PM:INFO:Data Append to the file
+27/03/2024  08:13:32 PM:INFO:database accessing
+27/03/2024  08:13:32 PM:INFO:Database Requested Allowed
+27/03/2024  08:13:33 PM:INFO:Database Created
+27/03/2024  08:13:56 PM:INFO:Inserted the data into database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:04 PM:INFO:Reading the from database
+27/03/2024  08:14:13 PM:INFO:Exit the database
+27/03/2024  08:14:13 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  08:14:13 PM:INFO:MarksWise Database Created
+27/03/2024  08:15:10 PM:INFO:Build Class Started
+27/03/2024  08:15:10 PM:INFO:Students Enter the subject wise marks
+27/03/2024  08:15:15 PM:INFO:String function execution
+27/03/2024  08:15:15 PM:INFO:Store the Result to a Variable
+27/03/2024  08:15:15 PM:INFO:DataHandling to the File
+27/03/2024  08:15:15 PM:INFO:File Created
+27/03/2024  08:15:15 PM:INFO:Data Append to the file
+27/03/2024  08:15:15 PM:INFO:database accessing
+27/03/2024  08:15:15 PM:INFO:Database Requested Allowed
+27/03/2024  08:15:16 PM:INFO:Database Created
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:20 PM:INFO:Reading the from database
+27/03/2024  08:15:22 PM:INFO:Exit the database
+27/03/2024  08:15:22 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  08:15:22 PM:INFO:MarksWise Database Created
+27/03/2024  08:15:25 PM:INFO:Reading the from database
+27/03/2024  08:15:32 PM:INFO:Exit the database
+27/03/2024  08:25:07 PM:INFO:Build Class Started
+27/03/2024  08:25:07 PM:INFO:Students Enter the subject wise marks
+27/03/2024  08:25:14 PM:INFO:Student Result Processing
+27/03/2024  08:25:14 PM:INFO:String function execution
+27/03/2024  08:25:14 PM:INFO:Store the Result to a Variable
+27/03/2024  08:25:14 PM:INFO:DataHandling to the File
+27/03/2024  08:25:14 PM:INFO:File Created
+27/03/2024  08:25:14 PM:INFO:Data Append to the file
+27/03/2024  08:25:14 PM:INFO:database accessing
+27/03/2024  08:25:14 PM:INFO:Database Requested Allowed
+27/03/2024  08:25:14 PM:INFO:Database Created
+27/03/2024  08:25:18 PM:INFO:Inserted the data into database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:27 PM:INFO:Reading the from database
+27/03/2024  08:25:44 PM:INFO:Exit the database
+27/03/2024  08:25:44 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  08:25:44 PM:INFO:MarksWise Database Created
+27/03/2024  08:25:48 PM:INFO:Inserted the data into database
+27/03/2024  08:25:51 PM:INFO:Reading the from database
+27/03/2024  08:25:51 PM:INFO:Reading the from database
+27/03/2024  08:25:53 PM:INFO:Exit the database
+27/03/2024  08:47:55 PM:INFO:Build Class Started
+27/03/2024  08:47:55 PM:INFO:Students Enter the subject wise marks
+27/03/2024  08:48:01 PM:INFO:Student Result Processing
+27/03/2024  08:48:01 PM:INFO:String function execution
+27/03/2024  08:48:01 PM:INFO:Store the Result to a Variable
+27/03/2024  08:48:01 PM:INFO:DataHandling to the File
+27/03/2024  08:48:01 PM:INFO:File Created
+27/03/2024  08:48:01 PM:INFO:Data Append to the file
+27/03/2024  08:48:01 PM:INFO:database accessing
+27/03/2024  08:48:01 PM:INFO:Database Requested Allowed
+27/03/2024  08:48:02 PM:INFO:Database Created
+27/03/2024  08:48:04 PM:INFO:Inserted the data into database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:05 PM:INFO:Reading the from database
+27/03/2024  08:48:07 PM:INFO:Exit the database
+27/03/2024  08:48:07 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  08:48:07 PM:INFO:MarksWise Database Created
+27/03/2024  08:48:09 PM:INFO:Inserted the data into database
+27/03/2024  08:48:13 PM:INFO:Reading the from database
+27/03/2024  08:48:13 PM:INFO:Reading the from database
+27/03/2024  08:48:13 PM:INFO:Reading the from database
+27/03/2024  08:48:15 PM:INFO:Exit the database
+27/03/2024  08:48:45 PM:INFO:Build Class Started
+27/03/2024  08:48:45 PM:INFO:Students Enter the subject wise marks
+27/03/2024  08:48:50 PM:INFO:Student Result Processing
+27/03/2024  08:48:50 PM:INFO:String function execution
+27/03/2024  08:48:50 PM:INFO:Store the Result to a Variable
+27/03/2024  08:48:50 PM:INFO:DataHandling to the File
+27/03/2024  08:48:50 PM:INFO:File Created
+27/03/2024  08:48:50 PM:INFO:Data Append to the file
+27/03/2024  08:48:50 PM:INFO:database accessing
+27/03/2024  08:48:50 PM:INFO:Database Requested Allowed
+27/03/2024  08:48:50 PM:INFO:Database Created
+27/03/2024  08:48:53 PM:INFO:Inserted the data into database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:55 PM:INFO:Reading the from database
+27/03/2024  08:48:57 PM:INFO:Exit the database
+27/03/2024  08:48:57 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  08:48:57 PM:INFO:MarksWise Database Created
+27/03/2024  08:48:59 PM:INFO:Inserted the data into database
+27/03/2024  08:49:00 PM:INFO:Reading the from database
+27/03/2024  08:49:00 PM:INFO:Reading the from database
+27/03/2024  08:49:00 PM:INFO:Reading the from database
+27/03/2024  08:49:00 PM:INFO:Reading the from database
+27/03/2024  08:49:03 PM:INFO:Exit the database
+27/03/2024  08:53:20 PM:INFO:Build Class Started
+27/03/2024  08:53:20 PM:INFO:Students Enter the subject wise marks
+27/03/2024  08:53:30 PM:INFO:Student Result Processing
+27/03/2024  08:53:30 PM:INFO:String function execution
+27/03/2024  08:53:30 PM:INFO:Store the Result to a Variable
+27/03/2024  08:53:30 PM:INFO:DataHandling to the File
+27/03/2024  08:53:30 PM:INFO:File Created
+27/03/2024  08:53:30 PM:INFO:Data Append to the file
+27/03/2024  08:53:30 PM:INFO:database accessing
+27/03/2024  08:53:30 PM:INFO:Database Requested Allowed
+27/03/2024  08:53:30 PM:INFO:Database Created
+27/03/2024  08:53:31 PM:INFO:Inserted the data into database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:32 PM:INFO:Reading the from database
+27/03/2024  08:53:38 PM:INFO:Exit the database
+27/03/2024  08:53:38 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  08:53:38 PM:INFO:MarksWise Database Created
+27/03/2024  08:53:41 PM:INFO:Inserted the data into database
+27/03/2024  08:53:42 PM:INFO:Reading the from database
+27/03/2024  08:53:42 PM:INFO:Reading the from database
+27/03/2024  08:53:42 PM:INFO:Reading the from database
+27/03/2024  08:53:42 PM:INFO:Reading the from database
+27/03/2024  08:53:42 PM:INFO:Reading the from database
+27/03/2024  08:53:44 PM:INFO:Exit the database
+27/03/2024  08:53:44 PM:INFO:Store the Result to a Variable
+27/03/2024  08:58:32 PM:INFO:Build Class Started
+27/03/2024  08:58:32 PM:INFO:Students Enter the subject wise marks
+27/03/2024  08:58:39 PM:INFO:Student Result Processing
+27/03/2024  08:58:39 PM:INFO:String function execution
+27/03/2024  08:58:39 PM:INFO:Store the Result to a Variable
+27/03/2024  08:58:39 PM:INFO:DataHandling to the File
+27/03/2024  08:58:39 PM:INFO:File Created
+27/03/2024  08:58:39 PM:INFO:Data Append to the file
+27/03/2024  08:58:39 PM:INFO:Store the Result to a Variable
+27/03/2024  09:00:26 PM:INFO:Build Class Started
+27/03/2024  09:00:26 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:00:31 PM:INFO:String function execution
+27/03/2024  09:00:31 PM:INFO:Store the Result to a Variable
+27/03/2024  09:00:31 PM:INFO:DataHandling to the File
+27/03/2024  09:00:31 PM:INFO:File Created
+27/03/2024  09:00:31 PM:INFO:Data Append to the file
+27/03/2024  09:00:31 PM:INFO:Store the Result to a Variable
+27/03/2024  09:14:48 PM:INFO:Build Class Started
+27/03/2024  09:14:48 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:14:53 PM:INFO:Student Result Processing
+27/03/2024  09:14:53 PM:INFO:String function execution
+27/03/2024  09:14:53 PM:INFO:Store the Result to a Variable
+27/03/2024  09:14:53 PM:INFO:DataHandling to the File
+27/03/2024  09:14:53 PM:INFO:File Created
+27/03/2024  09:14:53 PM:INFO:Data Append to the file
+27/03/2024  09:14:53 PM:INFO:Store the Result to a Variable
+27/03/2024  09:16:11 PM:INFO:Build Class Started
+27/03/2024  09:16:11 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:16:18 PM:INFO:String function execution
+27/03/2024  09:16:18 PM:INFO:Store the Result to a Variable
+27/03/2024  09:16:18 PM:INFO:DataHandling to the File
+27/03/2024  09:16:18 PM:INFO:File Created
+27/03/2024  09:16:18 PM:INFO:Data Append to the file
+27/03/2024  09:16:18 PM:INFO:Store the Result to a Variable
+27/03/2024  09:16:48 PM:INFO:Build Class Started
+27/03/2024  09:16:48 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:16:54 PM:INFO:Student Result Processing
+27/03/2024  09:16:54 PM:INFO:String function execution
+27/03/2024  09:16:54 PM:INFO:Store the Result to a Variable
+27/03/2024  09:16:54 PM:INFO:DataHandling to the File
+27/03/2024  09:16:54 PM:INFO:File Created
+27/03/2024  09:16:54 PM:INFO:Data Append to the file
+27/03/2024  09:16:54 PM:INFO:Store the Result to a Variable
+27/03/2024  09:17:57 PM:INFO:Build Class Started
+27/03/2024  09:17:57 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:18:01 PM:INFO:Student Result Processing
+27/03/2024  09:18:01 PM:INFO:String function execution
+27/03/2024  09:18:01 PM:INFO:Store the Result to a Variable
+27/03/2024  09:18:01 PM:INFO:DataHandling to the File
+27/03/2024  09:18:01 PM:INFO:File Created
+27/03/2024  09:18:01 PM:INFO:Data Append to the file
+27/03/2024  09:18:01 PM:INFO:Store the Result to a Variable
+27/03/2024  09:18:37 PM:INFO:Build Class Started
+27/03/2024  09:18:37 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:18:42 PM:INFO:Student Result Processing
+27/03/2024  09:18:42 PM:INFO:String function execution
+27/03/2024  09:18:42 PM:INFO:Store the Result to a Variable
+27/03/2024  09:18:42 PM:INFO:DataHandling to the File
+27/03/2024  09:18:42 PM:INFO:File Created
+27/03/2024  09:18:42 PM:INFO:Data Append to the file
+27/03/2024  09:18:42 PM:INFO:Store the Result to a Variable
+27/03/2024  09:19:06 PM:INFO:Build Class Started
+27/03/2024  09:19:06 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:19:11 PM:INFO:String function execution
+27/03/2024  09:19:11 PM:INFO:Store the Result to a Variable
+27/03/2024  09:19:11 PM:INFO:DataHandling to the File
+27/03/2024  09:19:11 PM:INFO:File Created
+27/03/2024  09:19:11 PM:INFO:Data Append to the file
+27/03/2024  09:20:06 PM:INFO:Build Class Started
+27/03/2024  09:20:06 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:20:10 PM:INFO:Student Result Processing
+27/03/2024  09:20:10 PM:INFO:String function execution
+27/03/2024  09:20:10 PM:INFO:Store the Result to a Variable
+27/03/2024  09:20:10 PM:INFO:DataHandling to the File
+27/03/2024  09:20:10 PM:INFO:File Created
+27/03/2024  09:20:10 PM:INFO:Data Append to the file
+27/03/2024  09:20:10 PM:INFO:Store the Result to a Variable
+27/03/2024  09:20:34 PM:INFO:Build Class Started
+27/03/2024  09:20:34 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:20:40 PM:INFO:Student Result Processing
+27/03/2024  09:20:40 PM:INFO:String function execution
+27/03/2024  09:20:40 PM:INFO:Store the Result to a Variable
+27/03/2024  09:20:40 PM:INFO:DataHandling to the File
+27/03/2024  09:20:40 PM:INFO:File Created
+27/03/2024  09:20:40 PM:INFO:Data Append to the file
+27/03/2024  09:20:40 PM:INFO:Store the Result to a Variable
+27/03/2024  09:21:13 PM:INFO:Build Class Started
+27/03/2024  09:21:13 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:21:19 PM:INFO:Student Result Processing
+27/03/2024  09:21:19 PM:INFO:String function execution
+27/03/2024  09:21:19 PM:INFO:Store the Result to a Variable
+27/03/2024  09:21:19 PM:INFO:DataHandling to the File
+27/03/2024  09:21:19 PM:INFO:File Created
+27/03/2024  09:21:19 PM:INFO:Data Append to the file
+27/03/2024  09:21:19 PM:INFO:Store the Result to a Variable
+27/03/2024  09:23:32 PM:INFO:Build Class Started
+27/03/2024  09:23:32 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:23:37 PM:INFO:Student Result Processing
+27/03/2024  09:23:37 PM:INFO:String function execution
+27/03/2024  09:23:37 PM:INFO:Store the Result to a Variable
+27/03/2024  09:23:37 PM:INFO:DataHandling to the File
+27/03/2024  09:23:37 PM:INFO:File Created
+27/03/2024  09:23:37 PM:INFO:Data Append to the file
+27/03/2024  09:23:37 PM:INFO:Store the Result to a Variable
+27/03/2024  09:23:37 PM:INFO:DataHandling to the File
+27/03/2024  09:23:37 PM:INFO:File Created
+27/03/2024  09:23:37 PM:INFO:Data Append to the file
+27/03/2024  09:23:37 PM:INFO:database accessing
+27/03/2024  09:23:37 PM:INFO:Database Requested Allowed
+27/03/2024  09:23:37 PM:INFO:Database Created
+27/03/2024  09:24:16 PM:INFO:Inserted the data into database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:16 PM:INFO:Reading the from database
+27/03/2024  09:24:19 PM:INFO:Exit the database
+27/03/2024  09:24:19 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  09:24:19 PM:INFO:MarksWise Database Created
+27/03/2024  09:24:21 PM:INFO:Exit the database
+27/03/2024  09:25:40 PM:INFO:Build Class Started
+27/03/2024  09:25:40 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:25:44 PM:INFO:String function execution
+27/03/2024  09:25:44 PM:INFO:Store the Result to a Variable
+27/03/2024  09:25:44 PM:INFO:DataHandling to the File
+27/03/2024  09:25:44 PM:INFO:File Created
+27/03/2024  09:25:44 PM:INFO:Data Append to the file
+27/03/2024  09:25:44 PM:INFO:Store the Result to a Variable
+27/03/2024  09:25:44 PM:INFO:DataHandling to the File
+27/03/2024  09:25:44 PM:INFO:File Created
+27/03/2024  09:25:44 PM:INFO:Data Append to the file
+27/03/2024  09:25:44 PM:INFO:database accessing
+27/03/2024  09:25:44 PM:INFO:Database Requested Allowed
+27/03/2024  09:25:44 PM:INFO:Database Created
+27/03/2024  09:26:16 PM:INFO:Exit the database
+27/03/2024  09:26:16 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  09:26:16 PM:INFO:MarksWise Database Created
+27/03/2024  09:26:17 PM:INFO:Exit the database
+27/03/2024  09:28:30 PM:INFO:Build Class Started
+27/03/2024  09:28:30 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:28:34 PM:INFO:Student Result Processing
+27/03/2024  09:28:34 PM:INFO:String function execution
+27/03/2024  09:28:34 PM:INFO:Store the Result to a Variable
+27/03/2024  09:28:34 PM:INFO:DataHandling to the File
+27/03/2024  09:28:34 PM:INFO:File Created
+27/03/2024  09:28:34 PM:INFO:Data Append to the file
+27/03/2024  09:28:34 PM:INFO:DataHandling to the File
+27/03/2024  09:28:34 PM:INFO:File Created
+27/03/2024  09:28:34 PM:INFO:Data Append to the file
+27/03/2024  09:28:34 PM:INFO:database accessing
+27/03/2024  09:28:34 PM:INFO:Database Requested Allowed
+27/03/2024  09:28:34 PM:INFO:Database Created
+27/03/2024  09:29:45 PM:INFO:Build Class Started
+27/03/2024  09:29:45 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:38:28 PM:INFO:Build Class Started
+27/03/2024  09:38:28 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:38:37 PM:INFO:Student Result Processing
+27/03/2024  09:38:37 PM:INFO:String function execution
+27/03/2024  09:38:37 PM:INFO:Store the Result to a Variable
+27/03/2024  09:38:37 PM:INFO:DataHandling to the File
+27/03/2024  09:38:37 PM:INFO:File Created
+27/03/2024  09:38:37 PM:INFO:Data Append to the file
+27/03/2024  09:38:37 PM:INFO:DataHandling to the File
+27/03/2024  09:38:37 PM:INFO:File Created
+27/03/2024  09:38:37 PM:INFO:Data Append to the file
+27/03/2024  09:38:37 PM:INFO:database accessing
+27/03/2024  09:38:37 PM:INFO:Database Requested Allowed
+27/03/2024  09:38:37 PM:INFO:Database Created
+27/03/2024  09:45:53 PM:INFO:Build Class Started
+27/03/2024  09:45:53 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:46:00 PM:INFO:Student Result Processing
+27/03/2024  09:46:00 PM:INFO:String function execution
+27/03/2024  09:46:00 PM:INFO:Store the Result to a Variable
+27/03/2024  09:46:00 PM:INFO:DataHandling to the File
+27/03/2024  09:46:00 PM:INFO:File Created
+27/03/2024  09:46:00 PM:INFO:Data Append to the file
+27/03/2024  09:46:00 PM:INFO:DataHandling to the File
+27/03/2024  09:46:00 PM:INFO:File Created
+27/03/2024  09:46:00 PM:INFO:Data Append to the file
+27/03/2024  09:46:00 PM:INFO:database accessing
+27/03/2024  09:46:00 PM:INFO:Database Requested Allowed
+27/03/2024  09:46:00 PM:INFO:Database Created
+27/03/2024  09:47:34 PM:INFO:Build Class Started
+27/03/2024  09:47:34 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:47:40 PM:INFO:Student Result Processing
+27/03/2024  09:47:40 PM:INFO:String function execution
+27/03/2024  09:47:40 PM:INFO:Store the Result to a Variable
+27/03/2024  09:47:40 PM:INFO:DataHandling to the File
+27/03/2024  09:47:40 PM:INFO:File Created
+27/03/2024  09:47:40 PM:INFO:Data Append to the file
+27/03/2024  09:47:40 PM:INFO:DataHandling to the File
+27/03/2024  09:47:40 PM:INFO:File Created
+27/03/2024  09:47:40 PM:INFO:Data Append to the file
+27/03/2024  09:47:40 PM:INFO:database accessing
+27/03/2024  09:47:40 PM:INFO:Database Requested Allowed
+27/03/2024  09:47:40 PM:INFO:Database Created
+27/03/2024  09:47:50 PM:INFO:Table Created
+27/03/2024  09:47:56 PM:INFO:Inserted the data into database
+27/03/2024  09:47:57 PM:INFO:Reading the from database
+27/03/2024  09:48:02 PM:INFO:Exit the database
+27/03/2024  09:48:02 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  09:48:02 PM:INFO:MarksWise Database Created
+27/03/2024  09:48:53 PM:INFO:Build Class Started
+27/03/2024  09:48:53 PM:INFO:Students Enter the subject wise marks
+27/03/2024  09:49:00 PM:INFO:Student Result Processing
+27/03/2024  09:49:00 PM:INFO:String function execution
+27/03/2024  09:49:00 PM:INFO:Store the Result to a Variable
+27/03/2024  09:49:00 PM:INFO:DataHandling to the File
+27/03/2024  09:49:00 PM:INFO:File Created
+27/03/2024  09:49:00 PM:INFO:Data Append to the file
+27/03/2024  09:49:00 PM:INFO:DataHandling to the File
+27/03/2024  09:49:00 PM:INFO:File Created
+27/03/2024  09:49:00 PM:INFO:Data Append to the file
+27/03/2024  09:49:00 PM:INFO:database accessing
+27/03/2024  09:49:00 PM:INFO:Database Requested Allowed
+27/03/2024  09:49:00 PM:INFO:Database Created
+27/03/2024  09:49:09 PM:INFO:Inserted the data into database
+27/03/2024  09:49:14 PM:INFO:Reading the from database
+27/03/2024  09:49:14 PM:INFO:Reading the from database
+27/03/2024  09:49:17 PM:INFO:Exit the database
+27/03/2024  09:49:17 PM:INFO:MarksWiseDatabase Requested Allowed
+27/03/2024  09:49:17 PM:INFO:MarksWise Database Created
+27/03/2024  09:49:22 PM:INFO:Table Created
+27/03/2024  09:49:24 PM:INFO:Inserted the data into database
+27/03/2024  09:49:26 PM:INFO:Reading the from database
+27/03/2024  09:49:31 PM:INFO:Exit the database
+27/03/2024  09:49:31 PM:INFO:Store the Result to a Variable
+28/03/2024  05:31:44 PM:INFO:Build Class Started
+28/03/2024  05:31:44 PM:INFO:Students Enter the subject wise marks
+28/03/2024  05:31:50 PM:INFO:Student Result Processing
+28/03/2024  05:31:50 PM:INFO:String function execution
+28/03/2024  05:31:50 PM:INFO:Store the Result to a Variable
+28/03/2024  05:31:50 PM:INFO:DataHandling to the File
+28/03/2024  05:31:50 PM:INFO:File Created
+28/03/2024  05:31:50 PM:INFO:Data Append to the file
+28/03/2024  05:31:50 PM:INFO:DataHandling to the File
+28/03/2024  05:31:50 PM:INFO:File Created
+28/03/2024  05:31:50 PM:INFO:Data Append to the file
+28/03/2024  05:31:50 PM:INFO:database accessing
+28/03/2024  05:31:50 PM:INFO:Database Requested Allowed
+28/03/2024  05:31:51 PM:INFO:Database Created
+28/03/2024  05:32:00 PM:INFO:Inserted the data into database
+28/03/2024  05:32:01 PM:INFO:Reading the from database
+28/03/2024  05:32:01 PM:INFO:Reading the from database
+28/03/2024  05:32:01 PM:INFO:Reading the from database
+28/03/2024  05:32:07 PM:INFO:Exit the database
+28/03/2024  05:32:07 PM:INFO:MarksWiseDatabase Requested Allowed
+28/03/2024  05:32:07 PM:INFO:MarksWise Database Created
+28/03/2024  05:32:10 PM:INFO:Inserted the data into database
+28/03/2024  05:32:35 PM:INFO:Build Class Started
+28/03/2024  05:32:35 PM:INFO:Students Enter the subject wise marks
+28/03/2024  05:32:40 PM:INFO:Student Result Processing
+28/03/2024  05:32:40 PM:INFO:String function execution
+28/03/2024  05:32:40 PM:INFO:Store the Result to a Variable
+28/03/2024  05:32:40 PM:INFO:DataHandling to the File
+28/03/2024  05:32:40 PM:INFO:File Created
+28/03/2024  05:32:40 PM:INFO:Data Append to the file
+28/03/2024  05:32:40 PM:INFO:DataHandling to the File
+28/03/2024  05:32:40 PM:INFO:File Created
+28/03/2024  05:32:40 PM:INFO:Data Append to the file
+28/03/2024  05:32:40 PM:INFO:database accessing
+28/03/2024  05:32:40 PM:INFO:Database Requested Allowed
+28/03/2024  05:32:40 PM:INFO:Database Created
+28/03/2024  05:32:42 PM:INFO:Inserted the data into database
+28/03/2024  05:32:43 PM:INFO:Reading the from database
+28/03/2024  05:32:43 PM:INFO:Reading the from database
+28/03/2024  05:32:43 PM:INFO:Reading the from database
+28/03/2024  05:32:43 PM:INFO:Reading the from database
+28/03/2024  05:32:45 PM:INFO:Exit the database
+28/03/2024  05:32:45 PM:INFO:MarksWiseDatabase Requested Allowed
+28/03/2024  05:32:46 PM:INFO:MarksWise Database Created
+28/03/2024  05:32:47 PM:INFO:Inserted the data into database
+28/03/2024  05:32:50 PM:INFO:Reading the from database
+28/03/2024  05:32:50 PM:INFO:Reading the from database
+28/03/2024  05:32:50 PM:INFO:Reading the from database
+28/03/2024  05:32:52 PM:INFO:Exit the database
+28/03/2024  05:50:51 PM:INFO:Build Class Started
+28/03/2024  05:50:51 PM:INFO:Students Enter the subject wise marks
+28/03/2024  05:50:58 PM:INFO:Student Result Processing
+28/03/2024  05:50:58 PM:INFO:String function execution
+28/03/2024  05:50:58 PM:INFO:Store the Result to a Variable
+28/03/2024  05:50:58 PM:INFO:DataHandling to the File
+28/03/2024  05:50:58 PM:INFO:File Created
+28/03/2024  05:50:58 PM:INFO:Data Append to the file
+28/03/2024  05:50:58 PM:INFO:DataHandling to the File
+28/03/2024  05:50:58 PM:INFO:File Created
+28/03/2024  05:50:58 PM:INFO:Data Append to the file
+28/03/2024  05:50:58 PM:INFO:database accessing
+28/03/2024  05:50:58 PM:INFO:Database Requested Allowed
+28/03/2024  05:50:58 PM:INFO:Database Created
+28/03/2024  05:51:00 PM:INFO:Inserted the data into database
+28/03/2024  05:51:01 PM:INFO:Reading the from database
+28/03/2024  05:51:01 PM:INFO:Reading the from database
+28/03/2024  05:51:01 PM:INFO:Reading the from database
+28/03/2024  05:51:01 PM:INFO:Reading the from database
+28/03/2024  05:51:01 PM:INFO:Reading the from database
+28/03/2024  05:51:02 PM:INFO:Exit the database
+28/03/2024  05:51:02 PM:INFO:MarksWiseDatabase Requested Allowed
+28/03/2024  05:51:03 PM:INFO:MarksWise Database Created
+28/03/2024  05:51:05 PM:INFO:Inserted the data into database
+28/03/2024  05:51:07 PM:INFO:Reading the from database
+28/03/2024  05:51:07 PM:INFO:Reading the from database
+28/03/2024  05:51:07 PM:INFO:Reading the from database
+28/03/2024  05:51:08 PM:INFO:Reading the from database
+28/03/2024  05:51:10 PM:INFO:Exit the database
+28/03/2024  05:53:21 PM:INFO:Build Class Started
+28/03/2024  05:53:21 PM:INFO:Students Enter the subject wise marks
+28/03/2024  05:53:27 PM:INFO:Student Result Processing
+28/03/2024  05:53:27 PM:INFO:String function execution
+28/03/2024  05:53:27 PM:INFO:Store the Result to a Variable
+28/03/2024  05:53:27 PM:INFO:DataHandling to the File
+28/03/2024  05:53:27 PM:INFO:File Created
+28/03/2024  05:53:27 PM:INFO:Data Append to the file
+28/03/2024  05:53:27 PM:INFO:DataHandling to the File
+28/03/2024  05:53:27 PM:INFO:File Created
+28/03/2024  05:53:27 PM:INFO:Data Append to the file
+28/03/2024  05:53:27 PM:INFO:database accessing
+28/03/2024  05:53:27 PM:INFO:Database Requested Allowed
+28/03/2024  05:53:27 PM:INFO:Database Created
+28/03/2024  05:53:28 PM:INFO:Inserted the data into database
+28/03/2024  05:53:30 PM:INFO:Reading the from database
+28/03/2024  05:53:30 PM:INFO:Reading the from database
+28/03/2024  05:53:30 PM:INFO:Reading the from database
+28/03/2024  05:53:30 PM:INFO:Reading the from database
+28/03/2024  05:53:30 PM:INFO:Reading the from database
+28/03/2024  05:53:30 PM:INFO:Reading the from database
+28/03/2024  05:53:53 PM:INFO:Build Class Started
+28/03/2024  05:53:53 PM:INFO:Students Enter the subject wise marks
+28/03/2024  05:53:57 PM:INFO:Student Result Processing
+28/03/2024  05:53:57 PM:INFO:String function execution
+28/03/2024  05:53:57 PM:INFO:Store the Result to a Variable
+28/03/2024  05:53:57 PM:INFO:DataHandling to the File
+28/03/2024  05:53:57 PM:INFO:File Created
+28/03/2024  05:53:57 PM:INFO:Data Append to the file
+28/03/2024  05:53:57 PM:INFO:DataHandling to the File
+28/03/2024  05:53:57 PM:INFO:File Created
+28/03/2024  05:53:57 PM:INFO:Data Append to the file
+28/03/2024  05:53:57 PM:INFO:database accessing
+28/03/2024  05:53:57 PM:INFO:Database Requested Allowed
+28/03/2024  05:53:58 PM:INFO:Database Created
+28/03/2024  05:53:59 PM:INFO:Inserted the data into database
+28/03/2024  05:54:00 PM:INFO:Reading the from database
+28/03/2024  05:54:00 PM:INFO:Reading the from database
+28/03/2024  05:54:00 PM:INFO:Reading the from database
+28/03/2024  05:54:00 PM:INFO:Reading the from database
+28/03/2024  05:54:00 PM:INFO:Reading the from database
+28/03/2024  05:54:00 PM:INFO:Reading the from database
+28/03/2024  05:54:00 PM:INFO:Reading the from database
+28/03/2024  05:54:01 PM:INFO:Exit the database
+28/03/2024  05:54:01 PM:INFO:MarksWiseDatabase Requested Allowed
+28/03/2024  05:54:01 PM:INFO:MarksWise Database Created
+28/03/2024  05:54:04 PM:INFO:Inserted the data into database
+28/03/2024  05:54:06 PM:INFO:Reading the from database
+28/03/2024  05:54:06 PM:INFO:Reading the from database
+28/03/2024  05:54:06 PM:INFO:Reading the from database
+28/03/2024  05:54:06 PM:INFO:Reading the from database
+28/03/2024  05:54:06 PM:INFO:Reading the from database
+28/03/2024  05:54:07 PM:INFO:Exit the database
+28/03/2024  05:56:02 PM:INFO:Build Class Started
+28/03/2024  05:56:02 PM:INFO:Students Enter the subject wise marks
+28/03/2024  05:56:06 PM:INFO:Student Result Processing
+28/03/2024  05:56:06 PM:INFO:String function execution
+28/03/2024  05:56:06 PM:INFO:Store the Result to a Variable
+28/03/2024  05:56:06 PM:INFO:DataHandling to the File
+28/03/2024  05:56:06 PM:INFO:File Created
+28/03/2024  05:56:06 PM:INFO:Data Append to the file
+28/03/2024  05:56:06 PM:INFO:DataHandling to the File
+28/03/2024  05:56:06 PM:INFO:File Created
+28/03/2024  05:56:06 PM:INFO:Data Append to the file
+28/03/2024  05:56:06 PM:INFO:database accessing
+28/03/2024  05:56:06 PM:INFO:Database Requested Allowed
+28/03/2024  05:56:06 PM:INFO:Database Created
+28/03/2024  05:56:13 PM:INFO:Inserted the data into database
+28/03/2024  05:56:14 PM:INFO:Reading the from database
+28/03/2024  05:56:14 PM:INFO:Reading the from database
+28/03/2024  05:56:14 PM:INFO:Reading the from database
+28/03/2024  05:56:14 PM:INFO:Reading the from database
+28/03/2024  05:56:14 PM:INFO:Reading the from database
+28/03/2024  05:56:14 PM:INFO:Reading the from database
+28/03/2024  05:56:14 PM:INFO:Reading the from database
+28/03/2024  05:56:14 PM:INFO:Reading the from database
+28/03/2024  05:56:16 PM:INFO:Exit the database
+28/03/2024  05:56:16 PM:INFO:MarksWiseDatabase Requested Allowed
+28/03/2024  05:56:16 PM:INFO:MarksWise Database Created
+28/03/2024  05:56:17 PM:INFO:Inserted the data into database
+28/03/2024  05:56:19 PM:INFO:Reading the from database
+28/03/2024  05:56:19 PM:INFO:Reading the from database
+28/03/2024  05:56:19 PM:INFO:Reading the from database
+28/03/2024  05:56:19 PM:INFO:Reading the from database
+28/03/2024  05:56:19 PM:INFO:Reading the from database
+28/03/2024  05:56:19 PM:INFO:Reading the from database
+28/03/2024  05:56:21 PM:INFO:Exit the database
+28/03/2024  05:58:01 PM:INFO:Build Class Started
+28/03/2024  05:58:01 PM:INFO:Students Enter the subject wise marks
+28/03/2024  05:58:05 PM:INFO:Student Result Processing
+28/03/2024  05:58:05 PM:INFO:String function execution
+28/03/2024  05:58:05 PM:INFO:Store the Result to a Variable
+28/03/2024  05:58:05 PM:INFO:DataHandling to the File
+28/03/2024  05:58:05 PM:INFO:File Created
+28/03/2024  05:58:05 PM:INFO:Data Append to the file
+28/03/2024  05:58:05 PM:INFO:DataHandling to the File
+28/03/2024  05:58:05 PM:INFO:File Created
+28/03/2024  05:58:05 PM:INFO:Data Append to the file
+28/03/2024  05:58:05 PM:INFO:database accessing
+28/03/2024  05:58:05 PM:INFO:Database Requested Allowed
+28/03/2024  05:58:05 PM:INFO:Database Created
+28/03/2024  05:58:07 PM:INFO:Inserted the data into database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:08 PM:INFO:Reading the from database
+28/03/2024  05:58:12 PM:INFO:Exit the database
+28/03/2024  05:58:12 PM:INFO:MarksWiseDatabase Requested Allowed
+28/03/2024  05:58:12 PM:INFO:MarksWise Database Created
+28/03/2024  05:58:13 PM:INFO:Inserted the data into database
+28/03/2024  05:58:15 PM:INFO:Reading the from database
+28/03/2024  05:58:15 PM:INFO:Reading the from database
+28/03/2024  05:58:15 PM:INFO:Reading the from database
+28/03/2024  05:58:15 PM:INFO:Reading the from database
+28/03/2024  05:58:15 PM:INFO:Reading the from database
+28/03/2024  05:58:15 PM:INFO:Reading the from database
+28/03/2024  05:58:15 PM:INFO:Reading the from database
+28/03/2024  05:58:16 PM:INFO:Exit the database
